@@ -25,7 +25,7 @@ public class EligiebleToVote {
            }
        else {
                System.out.println("not eligible to vote");
-           }
+           }input.close();
         }
     }
 

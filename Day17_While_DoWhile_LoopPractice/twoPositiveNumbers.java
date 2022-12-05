@@ -14,5 +14,6 @@ public class twoPositiveNumbers {
             mul+=num1;
         }
         System.out.println("mul= "+ mul);
+        input.close();
     }
 }

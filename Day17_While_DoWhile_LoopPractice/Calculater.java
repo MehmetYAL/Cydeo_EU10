@@ -17,5 +17,6 @@ public class Calculater {
             opr=input.next().charAt(0);
         }
         System.out.println( (opr=='+')? num1+num2:num1-num2);
+        input.close();
     }
 }

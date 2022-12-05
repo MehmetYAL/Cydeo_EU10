@@ -18,7 +18,7 @@ public class MarriageProposal {
             } else if (marry.equals("no")) {
                 System.out.println("so stupid , how come you miss this chance");
 
-            }
+            }input.close();
         }
 
     }

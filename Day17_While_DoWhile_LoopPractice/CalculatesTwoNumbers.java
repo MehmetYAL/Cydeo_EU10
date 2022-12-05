@@ -30,7 +30,7 @@ public class CalculatesTwoNumbers {
             case '*':
                 System.out.println(first*second);
                 break;
-        }
+        }input.close();
 
         /*
         write a program to ask user to enter two number and math operator,

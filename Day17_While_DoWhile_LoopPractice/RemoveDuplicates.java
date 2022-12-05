@@ -10,6 +10,7 @@ public class RemoveDuplicates {
                 continue;
             }
             result+=ch;
+
         }
         System.out.println(result);
     }
