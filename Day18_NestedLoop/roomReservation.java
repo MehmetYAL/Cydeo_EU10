@@ -16,7 +16,7 @@ public class roomReservation {
                 System.out.println("how many nights you want to stay");
                 int night = input.nextInt();
                 System.out.println("price is: $");
-            }
+            }input.close();
         }
         /*
         Create a class called RoomReservation, write a program for the room

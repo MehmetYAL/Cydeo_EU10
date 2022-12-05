@@ -22,6 +22,7 @@ while (!(ans.equals("no")||ans.equals("yes"))){
     ans= input.next().toLowerCase();
 } if (ans.equals("no"))
  {              break; }
+input.close();
 
 }/*Write a program that asks user to enter a numnber ,
         and check if the number is odd or even.

@@ -27,7 +27,7 @@ public class logInFunction {
             }if (!(uName.equals("Cydeo")&&pass.equals("WoodenSpoon"))){
                 System.err.println("Your account is locked,contact the supoort team");
             }
-        }
+        }input.close();
         /*
         You are writing a code for the log-in function of the Cydeo Application,
         assume that your credentials are:

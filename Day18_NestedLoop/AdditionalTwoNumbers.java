@@ -27,7 +27,7 @@ public class AdditionalTwoNumbers {
            }
        }
 
-
+input.close();
 
     }
 }
